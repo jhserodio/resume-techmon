@@ -3,33 +3,32 @@ New resume with interection and usege of wasm, rust and 3D graphics on web.
 
 ## Roadmap
 - [ ] Design
-  - [ ] What we need
-    - [ ] review every think about me easy.
-    - [ ] Create an impressive app
-    - [ ] Use Rust, wasm and 3D graphics
-  - [ ] What we want
-    - [ ] a game
-    - [ ] something simple like a terminal can be a good thing (I like the ideia of to create a IA has a partner for a character, and the interaction of this AI it's using terminal command language)
-    - [ ] we can use a simple model to interact with the user
-    - [ ] For me 2.5D looks intresting
-    - [ ] I want to have two things in my game, first my resume, a lot of interaction like a real game.
-    - [ ] action can be a good thing (a sword and 2 types of slash for create combos)
-    - [ ] enemies can be development and math problems
-    - [ ] Ok, I understand, this project can be too much for a online resume,
-    - [ ] Another good Ideia, it's create a farmer game (collect the things, growup plants, milking animals)
-      - [ ] I like this Idea, because I am a rancher.
-      - [ ] Another good thing is a developer in a room, and create interaction with the stuffs inside it.
-      - [ ] A pokemon Parodia, using the initials for choose you language, and the enemies can be projects.
-        - [ ] here you can catch new stacks for to resolve challenges.
-        - [ ] techmon/ techdex / initials = Haskellmander,CeplusSaur, Javartle.
-        - [ ] A pokedex (TechDex) pode ser a IA que conversa conosco
-        - [ ] HTMLedgy, RATACSS...
-        - [ ] Take your languages and the pokemons of the first generation and create a Matrix for this relations.
-        - [ ] we can use this pokemon red project for pokemon 2.5D
-
-- [ ] Stack definition
-- [ ] Project implementation
-- [ ] Backend impl definition (submit messages, content for resume in API)
-- [ ] Architecture/Infrastructure implementation
-- [ ] Automations
-- [ ] AI integration for Docs and reviews
+  - [x] Style: Pixel Art
+  - [X] Pallete: sothing between dark blue and red (like a twinlight)
+  - [x] Font: fantasque with 
+  - [x] env: Photos from the form, to create scenarious for echa page
+  - [x] Pages:
+      - [x] Frontpage:
+        - [x] Desktop: home, 4 books in a table, with me in back, looking trhought a window in the farm, with hat and plaid shirt, drinking coffee, and a menu at right.
+        - [x] Mobile: samething but put the options in te bottom with a carrousel to change the options.
+      - [ ] Resume:
+        - [ ] Desktop:
+        - [ ] Mobile:
+      - [ ] Contacts:
+        - [ ] Desktop:
+        - [ ] Mobile:
+      - [ ] Apps:
+        - [ ] Desktop:
+        - [ ] Mobile:
+      - [ ] Blog:
+        - [ ] Desktop:
+        - [ ] Mobile:
+      - [ ] Play:
+        - [ ] Desktop:
+        - [ ] Mobile:
+  - [x] Utilities
+    - [x] Blog: A place to put my articles and pappers, we need to support latex, for Math notation, code snippets, images, notes and citations.
+    - [x] Apps: A summary with all of my applications, here I will put my Math Models or another projects to share with the comunity.
+    - [x] contacts: an form and links for my linkedin, email, leetcode.
+    - [x] Resume: A place with a CV, I will try to be more generalist, give focus in Math, computational Applied Math, Rust, and Full Stack Engineer.
+    - [x] Play: A game for a joke that I will make some time.  
